@@ -1,0 +1,28 @@
+_repo: The-Rider-in-KhakiA-Novel_24804
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gould, Nat
+    alias: Gould, Nathaniel
+    birthdate: 1857
+    deathdate: 1919
+    gutenberg_agent_id: '26742'
+    url: http://www.gutenberg.org/2009/agents/26742
+description: ''
+gutenberg_issued: '2008-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'England -- Fiction'
+title: 'The Rider in Khaki: A Novel'
+url: http://www.gutenberg.org/ebooks/24804
