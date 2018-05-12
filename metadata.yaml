@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26742'
     url: http://www.gutenberg.org/2009/agents/26742
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24804#The-Rider-in-KhakiA-Novel
 gutenberg_issued: '2008-03-11'
 gutenberg_type: Text
 identifiers:
